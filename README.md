@@ -137,14 +137,10 @@ Layouts separados para vertical y horizontal
 
 ## 📷 Imágenes
 
-## Imagen 1
-![Balón 1](imagenes/basketba.png)
+# Prueba de imagen
 
-## Imagen 2
-![Balón 2](imagenes/basketbol.png)
+![Test Imagen](imagenes/basketba.png)
 
-## Imagen 3
-![Balón 3](imagenes/basket.png)
 
 
 ⚠️ Errores Encontrados y Soluciones
