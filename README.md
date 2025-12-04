@@ -137,9 +137,13 @@ Layouts separados para vertical y horizontal
 
 ## 📷 Imágenes
 
-<img src=�PNG  width="600">
-�PNG
-
+![�PNG  ](Captura3.png)
+
+![Captura 3]([Captura3.png](https://github.com/AlejandroRolon12/bastketbal/blob/main/Captura3))
+https://github.com/AlejandroRolon12/bastketbal/blob/main/Captura3
+
+![Captura 3](https://github.com/AlejandroRolon12/bastketbal/blob/main/Captura3)
+
 
 ⚠️ Errores Encontrados y Soluciones
 
