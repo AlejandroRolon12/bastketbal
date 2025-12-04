@@ -139,8 +139,7 @@ Layouts separados para vertical y horizontal
 
 # Prueba de imagen
 
-![Test Imagen](imagenes/basketba.png)
-
+![Test Imagenes](imagenes/basketba.png)
 
 
 ⚠️ Errores Encontrados y Soluciones
