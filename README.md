@@ -137,9 +137,6 @@ Layouts separados para vertical y horizontal
 
 ## 📷 Imágenes
 
-<img src="https://github.com/user-attachments/assets/f5f44717-2ac8-4f39-94c6-79c63ec6611a" width="700">
-
-<img src="https://github.com/user-attachments/assets/9174ff07-254b-4324-95bb-ff55a9bad4d7" width="700">
 
 
 ⚠️ Errores Encontrados y Soluciones
