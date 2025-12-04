@@ -136,7 +136,8 @@ Marcadores grandes y centrados
 Layouts separados para vertical y horizontal
 
 ## Imagenes
-<img width="378" height="618" alt="{2DAE396D-DF82-49FA-90CE-A61D1881DA6C}" src="https://github.com/user-attachments/assets/9e0cca75-8f06-4e37-b3a6-900ad4faeaef" />
+https://github.com/AlejandroRolon12/bastketbal/blob/main/%7B2DAE396D-DF82-49FA-90CE-A61D1881DA6C%7D.png
+
 
 <img width="1366" height="716" alt="{ACC79637-77BB-4F0F-AAC3-A5914CAEBA56}" src="https://github.com/user-attachments/assets/f5f44717-2ac8-4f39-94c6-79c63ec6611a" />
 
