@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Basketball Score</string>
+    
+    <!-- MainActivity -->
+    <string name="team_local">Local</string>
+    <string name="team_visitor">Visitante</string>
+    <string name="button_add_one">+1</string>
+    <string name="button_add_two">+2</string>
+    <string name="button_subtract_one">-1</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_next">Siguiente</string>
+    
+    <!-- ScoreActivity -->
+    <string name="result_title">Local - Visitante</string>
+    <string name="result_local_wins">Ganó el equipo Local</string>
+    <string name="result_visitor_wins">Ganó el equipo Visitante</string>
+    <string name="result_tie">Fue un empate</string>
+    <string name="button_back">Volver al Inicio</string>
+</resources>
