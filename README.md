@@ -137,12 +137,14 @@ Layouts separados para vertical y horizontal
 
 ## 📷 Imágenes
 
-![�PNG  ](Captura3.png)
+## Imagen 1
+![Balón 1](imagenes/basketba.png)
 
-![Captura 3]([Captura3.png](https://github.com/AlejandroRolon12/bastketbal/blob/main/Captura3))
-https://github.com/AlejandroRolon12/bastketbal/blob/main/Captura3
+## Imagen 2
+![Balón 2](imagenes/basketbol.png)
 
-![Captura 3](https://github.com/AlejandroRolon12/bastketbal/blob/main/Captura3)
+## Imagen 3
+![Balón 3](imagenes/basket.png)
 
 
 ⚠️ Errores Encontrados y Soluciones
