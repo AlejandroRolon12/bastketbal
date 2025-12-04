@@ -139,7 +139,11 @@ Layouts separados para vertical y horizontal
 
 # Prueba de imagen
 
-![Test Imagenes](imagenes/basketba.png)
+https://github.com/AlejandroRolon12/bastketbal/blob/main/imagenes/basketba.png
+
+https://github.com/AlejandroRolon12/bastketbal/blob/main/imagenes/basketbol.png
+
+https://github.com/AlejandroRolon12/bastketbal/blob/main/imagenes/bastket.png
 
 
 ⚠️ Errores Encontrados y Soluciones
