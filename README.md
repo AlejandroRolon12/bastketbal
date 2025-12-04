@@ -137,7 +137,7 @@ Layouts separados para vertical y horizontal
 
 ## 📷 Imágenes
 
-
+<img src="https://github.com/AlejandroRolon12/bastketbal/blob/main/%7B2DAE396D-DF82-49FA-90CE-A61D1881DA6C%7D.png" width="600">
 
 ⚠️ Errores Encontrados y Soluciones
 
