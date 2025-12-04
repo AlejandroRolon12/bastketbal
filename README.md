@@ -135,7 +135,13 @@ Marcadores grandes y centrados
 
 Layouts separados para vertical y horizontal
 
-// Imagenes
+## Imagenes
+<img width="378" height="618" alt="{2DAE396D-DF82-49FA-90CE-A61D1881DA6C}" src="https://github.com/user-attachments/assets/9d67d933-aa32-4f95-88ec-e08583fb0a65" />
+
+<img width="1366" height="719" alt="{77003461-8B36-4C45-9D51-65F8BADDE8F6}" src="https://github.com/user-attachments/assets/cffdb6ef-5e29-40a9-8077-24d98aeed5fe" />
+
+
+<img width="1366" height="716" alt="{ACC79637-77BB-4F0F-AAC3-A5914CAEBA56}" src="https://github.com/user-attachments/assets/4cc57a59-8ff8-4cab-aa30-44f5493b1c92" />
 
 
 ⚠️ Errores Encontrados y Soluciones
